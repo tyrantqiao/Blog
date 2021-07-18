@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Qiao&#39;s Blog</title>
+  
+  <subtitle>Coding my life, Love</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tyrantqiao.com/"/>
+  <updated>2021-07-18T15:37:43.239Z</updated>
+  <id>http://tyrantqiao.com/</id>
+  
+  <author>
+    <name>tyrantqiao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>缓存从0到放弃____吗</title>
+    <link href="http://tyrantqiao.com/archives/20dbf190/"/>
+    <id>http://tyrantqiao.com/archives/20dbf190/</id>
+    <published>2021-07-13T14:07:09.000Z</published>
+    <updated>2021-07-18T15:37:43.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;缓存&quot;&gt;&lt;a href=&quot;#缓存&quot; class=&quot;headerlink&quot; title=&quot;缓存&quot;&gt;&lt;/a&gt;缓存&lt;/h1&gt;&lt;h2 id=&quot;缓存常见架构&quot;&gt;&lt;a href=&quot;#缓存常见架构&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="redis" scheme="http://tyrantqiao.com/tags/redis/"/>
+    
+      <category term="缓存" scheme="http://tyrantqiao.com/tags/%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面经学习到认知自己真是菜鸟</title>
+    <link href="http://tyrantqiao.com/archives/5d6e73a4/"/>
+    <id>http://tyrantqiao.com/archives/5d6e73a4/</id>
+    <published>2021-07-11T22:11:17.000Z</published>
+    <updated>2021-07-18T15:37:43.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;面经学习&quot;&gt;&lt;a href=&quot;#面经学习&quot; class=&quot;headerlink&quot; title=&quot;面经学习&quot;&gt;&lt;/a&gt;面经学习&lt;/h1&gt;&lt;h2 id=&quot;剖析自身&quot;&gt;&lt;a href=&quot;#剖析自身&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://tyrantqiao.com/tags/Java/"/>
+    
+      <category term="面经" scheme="http://tyrantqiao.com/tags/%E9%9D%A2%E7%BB%8F/"/>
+    
+      <category term="MySQL" scheme="http://tyrantqiao.com/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rabbitmq从学习到放弃吗</title>
+    <link href="http://tyrantqiao.com/archives/13e08d65/"/>
+    <id>http://tyrantqiao.com/archives/13e08d65/</id>
+    <published>2021-07-11T11:16:32.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;rabbitmq&quot;&gt;&lt;a href=&quot;#rabbitmq&quot; class=&quot;headerlink&quot; title=&quot;rabbitmq&quot;&gt;&lt;/a&gt;rabbitmq&lt;/h1&gt;&lt;h2 id=&quot;软件使用&quot;&gt;&lt;a href=&quot;#软件使用&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mq" scheme="http://tyrantqiao.com/tags/mq/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础知识从0.1到0.000001</title>
+    <link href="http://tyrantqiao.com/archives/94b7e3f2/"/>
+    <id>http://tyrantqiao.com/archives/94b7e3f2/</id>
+    <published>2021-07-04T10:59:11.000Z</published>
+    <updated>2021-07-18T15:37:43.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Java-基础知识&quot;&gt;&lt;a href=&quot;#Java-基础知识&quot; class=&quot;headerlink&quot; title=&quot;Java 基础知识&quot;&gt;&lt;/a&gt;Java 基础知识&lt;/h1&gt;&lt;h2 id=&quot;类&quot;&gt;&lt;a href=&quot;#类&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://tyrantqiao.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java并发从0开始到0.001</title>
+    <link href="http://tyrantqiao.com/archives/4ed0a142/"/>
+    <id>http://tyrantqiao.com/archives/4ed0a142/</id>
+    <published>2021-07-04T08:08:21.000Z</published>
+    <updated>2021-07-18T15:37:43.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Java-并发&quot;&gt;&lt;a href=&quot;#Java-并发&quot; class=&quot;headerlink&quot; title=&quot;Java 并发&quot;&gt;&lt;/a&gt;Java 并发&lt;/h1&gt;&lt;h2 id=&quot;多线程&quot;&gt;&lt;a href=&quot;#多线程&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://tyrantqiao.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>复杂度计算</title>
+    <link href="http://tyrantqiao.com/archives/2eb2e959/"/>
+    <id>http://tyrantqiao.com/archives/2eb2e959/</id>
+    <published>2021-06-21T23:32:49.000Z</published>
+    <updated>2021-07-18T15:37:43.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;算法&quot;&gt;&lt;a href=&quot;#算法&quot; class=&quot;headerlink&quot; title=&quot;算法&quot;&gt;&lt;/a&gt;算法&lt;/h1&gt;&lt;h2 id=&quot;复杂度计算&quot;&gt;&lt;a href=&quot;#复杂度计算&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="http://tyrantqiao.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络从0到放弃之旅!</title>
+    <link href="http://tyrantqiao.com/archives/aa4a4297/"/>
+    <id>http://tyrantqiao.com/archives/aa4a4297/</id>
+    <published>2021-06-09T22:48:40.000Z</published>
+    <updated>2021-07-18T15:37:43.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;计算机网络&quot;&gt;&lt;a href=&quot;#计算机网络&quot; class=&quot;headerlink&quot; title=&quot;计算机网络&quot;&gt;&lt;/a&gt;计算机网络&lt;/h1&gt;&lt;h2 id=&quot;ping&quot;&gt;&lt;a href=&quot;#ping&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试" scheme="http://tyrantqiao.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="网络" scheme="http://tyrantqiao.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>震惊 服务器被挖坑了</title>
+    <link href="http://tyrantqiao.com/archives/54b9ea3f/"/>
+    <id>http://tyrantqiao.com/archives/54b9ea3f/</id>
+    <published>2021-06-03T22:41:18.000Z</published>
+    <updated>2021-07-18T15:37:43.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;服务器安全&quot;&gt;&lt;a href=&quot;#服务器安全&quot; class=&quot;headerlink&quot; title=&quot;服务器安全&quot;&gt;&lt;/a&gt;服务器安全&lt;/h1&gt;&lt;h2 id=&quot;监控&quot;&gt;&lt;a href=&quot;#监控&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="centos" scheme="http://tyrantqiao.com/tags/centos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名解析</title>
+    <link href="http://tyrantqiao.com/archives/b2206b46/"/>
+    <id>http://tyrantqiao.com/archives/b2206b46/</id>
+    <published>2021-06-02T12:51:33.000Z</published>
+    <updated>2021-07-18T15:37:43.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;域名&quot;&gt;&lt;a href=&quot;#域名&quot; class=&quot;headerlink&quot; title=&quot;域名&quot;&gt;&lt;/a&gt;域名&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;为了把反人类的数字 ip，转换为国际域名、中文域名，方便记忆。而这个转换解析过程就是 DNS
+        
+      
+    
+    </summary>
+    
+    
+      <category term="域名" scheme="http://tyrantqiao.com/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何打造精美的github profile界面</title>
+    <link href="http://tyrantqiao.com/archives/bb7b30dc/"/>
+    <id>http://tyrantqiao.com/archives/bb7b30dc/</id>
+    <published>2021-06-01T22:33:33.000Z</published>
+    <updated>2021-07-18T15:37:43.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;github&quot;&gt;&lt;a href=&quot;#github&quot; class=&quot;headerlink&quot; title=&quot;github&quot;&gt;&lt;/a&gt;github&lt;/h1&gt;&lt;h2 id=&quot;github-profile&quot;&gt;&lt;a href=&quot;#github-profile&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="http://tyrantqiao.com/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式详解</title>
+    <link href="http://tyrantqiao.com/archives/a59a9302/"/>
+    <id>http://tyrantqiao.com/archives/a59a9302/</id>
+    <published>2021-05-31T12:12:29.000Z</published>
+    <updated>2021-07-18T15:37:43.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;设计模式&quot;&gt;&lt;a href=&quot;#设计模式&quot; class=&quot;headerlink&quot; title=&quot;设计模式&quot;&gt;&lt;/a&gt;设计模式&lt;/h1&gt;&lt;h2 id=&quot;工厂方法&quot;&gt;&lt;a href=&quot;#工厂方法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试" scheme="http://tyrantqiao.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="设计模式" scheme="http://tyrantqiao.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>强推好用的软件插件以及配置项</title>
+    <link href="http://tyrantqiao.com/archives/3720d09d/"/>
+    <id>http://tyrantqiao.com/archives/3720d09d/</id>
+    <published>2021-05-21T12:43:31.000Z</published>
+    <updated>2021-07-18T15:37:43.215Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;推荐好文&quot;&gt;&lt;a href=&quot;#推荐好文&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件" scheme="http://tyrantqiao.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何设计消息中间件</title>
+    <link href="http://tyrantqiao.com/archives/8354089f/"/>
+    <id>http://tyrantqiao.com/archives/8354089f/</id>
+    <published>2021-05-21T12:31:34.000Z</published>
+    <updated>2021-07-18T15:37:43.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;消息中间件&quot;&gt;&lt;a href=&quot;#消息中间件&quot; class=&quot;headerlink&quot; title=&quot;消息中间件&quot;&gt;&lt;/a&gt;消息中间件&lt;/h1&gt;&lt;h2 id=&quot;设计中间件&quot;&gt;&lt;a href=&quot;#设计中间件&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="中间件" scheme="http://tyrantqiao.com/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+      <category term="架构" scheme="http://tyrantqiao.com/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx从入门到无所不能</title>
+    <link href="http://tyrantqiao.com/archives/d0ccd42c/"/>
+    <id>http://tyrantqiao.com/archives/d0ccd42c/</id>
+    <published>2021-05-17T22:45:17.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;nginx&quot;&gt;&lt;a href=&quot;#nginx&quot; class=&quot;headerlink&quot; title=&quot;nginx&quot;&gt;&lt;/a&gt;nginx&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Nginx 是一款轻量级的 Web
+        
+      
+    
+    </summary>
+    
+    
+      <category term="nginx" scheme="http://tyrantqiao.com/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再学Java五百年</title>
+    <link href="http://tyrantqiao.com/archives/d562a6e9/"/>
+    <id>http://tyrantqiao.com/archives/d562a6e9/</id>
+    <published>2021-05-02T11:57:12.000Z</published>
+    <updated>2021-07-18T15:37:43.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h1&gt;&lt;h2 id=&quot;语言特点&quot;&gt;&lt;a href=&quot;#语言特点&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://tyrantqiao.com/tags/Java/"/>
+    
+      <category term="面经" scheme="http://tyrantqiao.com/tags/%E9%9D%A2%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作业系统设计</title>
+    <link href="http://tyrantqiao.com/archives/a410d568/"/>
+    <id>http://tyrantqiao.com/archives/a410d568/</id>
+    <published>2021-05-02T11:42:42.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;批次任务&quot;&gt;&lt;a href=&quot;#批次任务&quot; class=&quot;headerlink&quot; title=&quot;批次任务&quot;&gt;&lt;/a&gt;批次任务&lt;/h1&gt;&lt;h2 id=&quot;总体流程&quot;&gt;&lt;a href=&quot;#总体流程&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>会计-程序员角度</title>
+    <link href="http://tyrantqiao.com/archives/dac86619/"/>
+    <id>http://tyrantqiao.com/archives/dac86619/</id>
+    <published>2021-05-02T11:41:37.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;会计&quot;&gt;&lt;a href=&quot;#会计&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="程序员" scheme="http://tyrantqiao.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL性能压力测试从0开始到宕机</title>
+    <link href="http://tyrantqiao.com/archives/5dbdb603/"/>
+    <id>http://tyrantqiao.com/archives/5dbdb603/</id>
+    <published>2021-04-26T23:43:31.000Z</published>
+    <updated>2021-07-18T15:37:43.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;MySQL-性能&quot;&gt;&lt;a href=&quot;#MySQL-性能&quot; class=&quot;headerlink&quot; title=&quot;MySQL 性能&quot;&gt;&lt;/a&gt;MySQL 性能&lt;/h1&gt;&lt;h2 id=&quot;mysqlslap&quot;&gt;&lt;a href=&quot;#mysqlslap&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="http://tyrantqiao.com/tags/mysql/"/>
+    
+      <category term="性能" scheme="http://tyrantqiao.com/tags/%E6%80%A7%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql从开始翻书到放弃の一</title>
+    <link href="http://tyrantqiao.com/archives/324c5ba4/"/>
+    <id>http://tyrantqiao.com/archives/324c5ba4/</id>
+    <published>2021-04-20T13:54:46.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;MySQL&quot;&gt;&lt;a href=&quot;#MySQL&quot; class=&quot;headerlink&quot; title=&quot;MySQL&quot;&gt;&lt;/a&gt;MySQL&lt;/h1&gt;&lt;h2 id=&quot;MySQL-入门&quot;&gt;&lt;a href=&quot;#MySQL-入门&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="http://tyrantqiao.com/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql优化参考手册--真</title>
+    <link href="http://tyrantqiao.com/archives/7b0e77ed/"/>
+    <id>http://tyrantqiao.com/archives/7b0e77ed/</id>
+    <published>2021-04-05T10:56:25.000Z</published>
+    <updated>2021-07-18T15:37:43.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;mysql-优化&quot;&gt;&lt;a href=&quot;#mysql-优化&quot; class=&quot;headerlink&quot; title=&quot;mysql 优化&quot;&gt;&lt;/a&gt;mysql 优化&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;由于此处我并不是一个专职的
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="http://tyrantqiao.com/tags/mysql/"/>
+    
+  </entry>
+  
+</feed>
